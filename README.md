@@ -14,7 +14,7 @@ This is a static **Netflix landing page clone** built using **HTML and CSS**. Th
 
 You can open `index.html` in your browser to preview locally.
 
-> 🔗 [Optional: You can deploy it on GitHub Pages or Netlify and add a live demo link here.]
+> 🔗Check live preview over here: (https://mohini-kumar2005.github.io/Netflix-clone/)
 
 ## 📁 Folder Structure
 
